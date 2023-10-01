@@ -1,4 +1,3 @@
-# hostel-management-system
 # Hostel Management System
 
 This is a Python program that implements a simple Hostel Management System. It allows students and managers to perform various tasks related to hostel management such as student registration, fee submission, complaint management, and data analysis.
